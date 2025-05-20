@@ -31,7 +31,7 @@ El sistema fue diseñado con una estructura  flexible, lo que permite su crecimi
 - PHP 8.1+
 - Laravel 11
 - Composer
-- PostgreSQL o MySQL
+- PostgreSQL.
 - Node.js & NPM (para recursos frontend)
 
 ## Instalación
